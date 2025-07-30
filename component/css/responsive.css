@@ -1,15 +1,14 @@
-@media (max-width: 768px) {
+@media (max-width: 780px) {
   .nft-preview {
-    flex-direction: column;
-    align-items: center;
-    padding: 20px;
-    margin: auto;
-
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 10px;
+    margin: 0 auto;
+    width: auto;
   }
 
   .nft-component {
     width: 100%;
-    max-width: 400px;
     border-radius: 50px;
     background-color: hsl(0, 0%, 20%);
     height: 780px !important;
