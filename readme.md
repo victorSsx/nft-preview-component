@@ -34,10 +34,6 @@ O projeto apresenta:
 📎 [Visualizar Projeto no Vercel/GitHub Pages](https://nft-preview-component-lemon.vercel.app/)  
 📁 [Repositório no GitHub](https://github.com/victorSsx/nft-preview-component)
 
-## 📸 Screenshot
-
-![Design Final](./component/img/preview-card-component.png.jpeg)
-
 ---
 
 ## 📚 Créditos
